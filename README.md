@@ -20,5 +20,3 @@ A simple, clean browser-based To-Do List built with HTML, JavaScript, and Tailwi
 1. Clone the repository.
 2. Open `index.html` in your browser.
 3. Add and delete tasks with ease!
-
-## Folder Structure
